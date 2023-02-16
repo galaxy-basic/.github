@@ -1,5 +1,11 @@
 # Welcome to galaxy.basic 👋
 
+[![Build - Successful](https://img.shields.io/badge/Build-Successful-success?logo=databricks&logoColor=white)](https://)
+[![Bash - 5.2.15](https://img.shields.io/badge/Bash-5.2.15-important?logo=gnubash&logoColor=white)](https://)
+[![Python - 3.10 and up](https://img.shields.io/badge/Python-3.10_and_up-important?logo=python&logoColor=white)](https://)
+
+Website: [Click Here!](https://galaxy-basic.gitbook.io/linux/)
+
 **Here are some ideas to understand galaxy.basic:**
 
 🙋‍♀️ A short introduction - This is a small organization willing to make cool things in Ubuntu.
